@@ -143,6 +143,16 @@ img {
 
 }
 
+@media screen and (max-width:480px) {
+    .row {
+      display: flex;
+      flex-wrap: wrap ;
+    }
+     .lessons .col{
+        width: 100%;
+    }
+
+}
     
        
 
